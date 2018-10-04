@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mo+c1CVlMUbvjU9s/eni4U2WiwY=",
+			"path": "github.com/spotinst/spotinst-sdk-go",
+			"revision": "afdebc7c7c75616a0375f8ffdf1f7b25735bc8ec",
+			"revisionTime": "2018-10-01T18:40:49Z"
+		}
+	],
+	"rootPath": "github.com/alexindeed/cli"
+}
